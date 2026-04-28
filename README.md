@@ -66,3 +66,25 @@ Access: http://localhost:3000
 </pre>
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
+System Workflow:
+
+<pre>
+User Input / Persona
+        ↓
+Data Shadow Construction
+        ↓
+Data Twin Simulation
+        ↓
+Vulnerability Analysis
+        ↓
+Attack Generation
+        ↓
+Trust Score Evaluation
+        ↓
+Defense Generation
+        ↓
+Frontend Visualization
+</pre>
+_____________________________________________________________________________________________________________________________________________________________________________________________
+
+
