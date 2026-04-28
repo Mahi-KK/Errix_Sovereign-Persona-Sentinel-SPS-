@@ -21,6 +21,17 @@ It is built on two core concepts:
 Data Shadow — Passive digital footprint derived from user behavior
 Data Twin — AI-generated behavioral replica used for simulation
 
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+Tech Stack: 
+
+Backend:
+Python
+FastAPI (Uvicorn)
+Gemini API
+Frontend:
+React (Vite)
+
 The system enables:
 
 Vulnerability prediction
