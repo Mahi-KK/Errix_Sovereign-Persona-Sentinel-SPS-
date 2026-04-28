@@ -87,4 +87,20 @@ Frontend Visualization
 </pre>
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
+Modules:
+
+<pre> 
+shadow_mapper.py         → Builds Data Shadow
+        
+vulnerability_engine.py  → Identifies vulnerabilities
+        
+attack_generator.py      → Generates phishing scenarios
+        
+trust_score.py           → Calculates risk score
+        
+defense_generator.py     → Suggests defenses
+        
+gemini_client.py         → Handles AI communication
+</pre>
+_____________________________________________________________________________________________________________________________________________________________________________________________
 
