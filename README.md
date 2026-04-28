@@ -112,5 +112,12 @@ Important Note Pointers:
 </pre>
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
+# ⚠️ Caution!!! - Ethical Use only:
 
+<pre>
+This project is intended strictly for:
+- Cybersecurity research
+- Awareness and training
+- Controlled simulations only
+</pre>
 
