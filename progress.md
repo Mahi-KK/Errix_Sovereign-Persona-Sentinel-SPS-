@@ -29,3 +29,15 @@ Tasks Completed: 5:01pm - Completed the code for dashboard and trust score algor
 Current Progress: 5:05pm - Working on attack and defense simulations.
 
 Next steps: 5:10pm - Complete code for attack generator and defence generator to test the system.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Checkpoint 3:
+
+Time: 8:30pm
+
+Tasks Completed: Attack generator and defence generator have now been initalized and ready to be implemented.
+
+Current Progress: Updating the readme file to include the description and basic idea of the Sovereign Persona Sentinel.
+
+Next Steps: Define the installation processes, structures, running, in the readme file.
