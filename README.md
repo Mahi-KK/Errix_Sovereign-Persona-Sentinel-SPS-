@@ -43,3 +43,10 @@ Project Structure:
 <pre> ## Project Structure ``` SPS/ ├── backend/ │ ├── main.py │ ├── shadow_mapper.py │ ├── vulnerability_engine.py │ ├── attack_generator.py │ ├── trust_score.py │ ├── defense_generator.py │ ├── gemini_client.py │ └── requirements.txt │ ├── frontend/ │ ├── src/ │ ├── index.html │ ├── package.json │ └── vite.config.js ``` </pre>
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
+<pre>
+##  Installation
+
+git clone &lt;your-repo-url&gt;
+cd SPS
+</pre>
+_____________________________________________________________________________________________________________________________________________________________________________________________
