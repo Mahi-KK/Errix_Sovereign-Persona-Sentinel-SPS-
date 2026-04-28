@@ -41,3 +41,15 @@ Tasks Completed: Attack generator and defence generator have now been initalized
 Current Progress: Updating the readme file to include the description and basic idea of the Sovereign Persona Sentinel.
 
 Next Steps: Define the installation processes, structures, running, in the readme file.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Checkpoint 4:
+
+Time: 11:30pm
+
+Tasks Completed: Readme file has been update with installation process, structures descriptions, useful information etc.
+
+Current Progress: Adding extra features and debugging the code.
+
+Next Steps: Debug the code run multiple tests to see the reliability of the analysis system.
