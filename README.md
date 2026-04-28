@@ -101,7 +101,19 @@ gemini_client.py         → Handles AI communication
 </pre>
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
+Requirements:
+
+<pre>
+- Python 3.9+
+- Node.js (v16+ recommended)
+- npm or yarn
+- Internet connection (for AI API)
+</pre>
+
+_____________________________________________________________________________________________________________________________________________________________________________________________
+
 Important Note Pointers:
+
 <pre>
 - Configure .env with your API key before running
 - Backend runs on localhost:8000 by default
