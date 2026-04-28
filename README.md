@@ -2,3 +2,28 @@
 An AI-based cybersecurity training platform that tests how vulnerable a user is, simulates realistic cyberattacks, and then gives tailored advice on how to stay protected.
 Model : Gemini 2.5 
 API : Gemini
+
+________________________________________________________________________________________________________________________________________________________________________________________________
+Sovereign Persona Sentinel (SPS)
+________________________________________________________________________________________________________________________________________________________________________________________________
+
+An AI-powered behavioral intelligence system that constructs Data Shadows and Data Twins to simulate, analyze, 
+and defend against targeted phishing attacks.
+
+________________________________________________________________________________________________________________________________________________________________________________________________
+
+Overview:
+
+Sovereign Persona Sentinel models human behavior to identify vulnerabilities and simulate realistic phishing scenarios.
+
+It is built on two core concepts:
+
+Data Shadow — Passive digital footprint derived from user behavior
+Data Twin — AI-generated behavioral replica used for simulation
+
+The system enables:
+
+Vulnerability prediction
+Targeted attack simulation
+Intelligent defense generation
+________________________________________________________________________________________________________________________________________________________________________________________________
