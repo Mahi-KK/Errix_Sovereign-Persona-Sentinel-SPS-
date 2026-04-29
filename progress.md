@@ -79,3 +79,8 @@ Current Progress: Working on the presentation for system through PPT.
 Next Steps: All the steps have now been completed and final presentation to the judges shall commense from now.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Time 9:16am:
+Thereby the project is concluded and the system is online.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
