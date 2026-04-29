@@ -46,6 +46,10 @@ Installation:
 git clone &lt;(https://github.com/Mahi-KK/Errix_Sovereign-Persona-Sentinel-SPS-.git)&gt;
 cd SPS
 </pre>
+
+(or)
+
+Download the entire repository as a zip file → Extract → open in a code editor (Example: VS Code) → countinue with the running sequence
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
 Running Sequence:
