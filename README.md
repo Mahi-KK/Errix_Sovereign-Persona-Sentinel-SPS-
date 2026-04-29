@@ -126,7 +126,7 @@ Important Note Pointers:
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
 # Imortant Step:
-  Configure .env with your API key before running
+  Configure .env with your API key before running,
   Get your key: https://aistudio.google.com/app/api-keys
   (Copy and Paste the key into the .env file in the backend folder)
 
