@@ -66,3 +66,16 @@ Current Progress: Working on the final bits of the readme to completely refined 
 
 Next Steps: Final debug and final run of the system to ensure optimal performance.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Checkpoint 6:
+
+Time: 09:00am
+
+Tasks Completed: Final debug and testing have now been completed.
+
+Current Progress: Working on the presentation for system through PPT.
+
+Next Steps: All the steps have now been completed and final presentation to the judges shall commense from now.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
