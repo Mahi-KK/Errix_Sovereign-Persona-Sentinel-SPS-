@@ -53,3 +53,16 @@ Tasks Completed: Readme file has been update with installation process, structur
 Current Progress: Adding extra features and debugging the code.
 
 Next Steps: Debug the code run multiple tests to see the reliability of the analysis system.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Checkpoint 5:
+
+Time: 06:00am
+
+Tasks Completed: Multiple test runs successively executed and mild errors were found.
+
+Current Progress: Working on the final bits of the readme to completely refined and define the entire process of the sps system
+
+Next Steps: Final debug and final run of the system to ensure optimal performance.
+
