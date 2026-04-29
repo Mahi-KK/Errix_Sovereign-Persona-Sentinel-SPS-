@@ -108,7 +108,7 @@ ________________________________________________________________________________
 Requirements:
 
 <pre>
-- Python 3.9+
+- Python 3.1+ (3.12 recommended)
 - Node.js (v16+ recommended)
 - npm or yarn
 - Internet connection (for AI API)
